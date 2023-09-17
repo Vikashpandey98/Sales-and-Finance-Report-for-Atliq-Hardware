@@ -1,5 +1,5 @@
 # Sales-and-Finance-Report-for-Atliq-Hardware
-# Sales Report & Finance Report for AtliQ Hardware
+
 
 ## Sales Report :
 
